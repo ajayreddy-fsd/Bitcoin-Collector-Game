@@ -1,0 +1,15 @@
+img{
+    width: 50px;
+}
+
+
+/* ! why? this styling*/
+/* simple styling done to display score */
+.score{
+    position: fixed;
+    bottom: -10px;
+    right: 32px;
+    font-size: 50px;
+    opacity: 0.3;
+}
+
